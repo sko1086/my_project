@@ -22,6 +22,7 @@
         </div>
       </form>
       <p class="log">
+        ddd
         {{ resultMessage }}
       </p>
     </div>
